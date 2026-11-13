@@ -126,3 +126,4 @@ Próxima fase ─── ??? (talvez a sua empresa 👀)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa5a0,100:0f3d6e&height=100&section=footer" alt="" />
 
 </div>
+
