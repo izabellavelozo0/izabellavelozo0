@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3d6e,50:1b6f8f,100:2aa5a0&height=230&section=header&text=Ana%20Izabella&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=SELECT%20*%20FROM%20futuro%20WHERE%20tecnologia%20%3D%20TRUE%3B&descSize=17&descAlignY=66" alt="Ana Izabella Velozo Souza" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3d6e,50:1b6f8f,100:2aa5a0&height=200&section=header&text=Ana%20Izabella&fontSize=58&fontColor=ffffff&fontAlignY=50" alt="Ana Izabella Velozo Souza" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=2AA5A0&center=true&vCenter=true&width=700&height=40&lines=%24+sudo+become+engenheira_da_computa%C3%A7%C3%A3o;Suporte+t%C3%A9cnico+de+dia%2C+SQL+o+tempo+todo;Gesto+no+ar%2C+mapa+na+tela%3A+BoitaTech;Aberta+a+est%C3%A1gio+e+vaga+j%C3%BAnior+em+TI" alt="Typing" />
 
@@ -12,19 +12,7 @@
 
 ---
 
-## 👩‍💻 `SELECT * FROM izabella;`
-
-```sql
-SELECT nome, curso, onde_trabalha, procurando
-FROM   izabella
-WHERE  cidade = 'Manaus';
-
--- resultado
--- nome           : Ana Izabella Velozo Souza
--- curso          : Engenharia da Computação · Fametro · 8º período
--- onde_trabalha  : TRT-11 · suporte técnico e SQL/MySQL
--- procurando     : estágio ou vaga júnior em TI
-```
+## 👩‍💻 Sobre mim
 
 Gosto de entender como o sistema funciona **de ponta a ponta**: do usuário que abre um chamado até a tabela onde o dado mora. Hoje isso é suporte técnico e SQL/MySQL no TRT-11. Amanhã pode ser dados, suporte ou desenvolvimento, e estou testando cada caminho para descobrir qual é o meu.
 
@@ -55,18 +43,11 @@ class Izabella:
 | :--- | :--- | :--- |
 | Atendimento a usuários, diagnóstico e resolução de incidentes | SQL, MySQL, modelagem e normalização | Python, Git, HTML, CSS, JavaScript e noções de Android |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f3d6e?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,androidstudio,windows&perline=9" alt="Tecnologias" />
+
+</div>
 
 ---
 
@@ -126,4 +107,5 @@ Próxima fase ─── ??? (talvez a sua empresa 👀)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa5a0,100:0f3d6e&height=100&section=footer" alt="" />
 
 </div>
+
 
