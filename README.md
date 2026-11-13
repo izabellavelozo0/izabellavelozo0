@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d6e,100:2aa5a0&height=200&section=header&text=Ana%20Izabella%20Velozo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Suporte%20T%C3%A9cnico%20%C2%B7%20Banco%20de%20Dados&descSize=16&descAlignY=60" alt="Ana Izabella Velozo Souza" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3d6e,50:1b6f8f,100:2aa5a0&height=230&section=header&text=Ana%20Izabella&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=SELECT%20*%20FROM%20futuro%20WHERE%20tecnologia%20%3D%20TRUE%3B&descSize=17&descAlignY=66" alt="Ana Izabella Velozo Souza" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2AA5A0&center=true&vCenter=true&width=640&lines=system+online+%E2%80%94+welcome_;Suporte+T%C3%A9cnico+de+TI+%C2%B7+SQL+%C2%B7+MySQL;Engenharia+da+Computa%C3%A7%C3%A3o+%C2%B7+Fametro;Aberta+a+est%C3%A1gio+e+vaga+j%C3%BAnior" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=2AA5A0&center=true&vCenter=true&width=700&height=40&lines=%24+sudo+become+engenheira_da_computa%C3%A7%C3%A3o;Suporte+t%C3%A9cnico+de+dia%2C+SQL+o+tempo+todo;Gesto+no+ar%2C+mapa+na+tela%3A+BoitaTech;Aberta+a+est%C3%A1gio+e+vaga+j%C3%BAnior+em+TI" alt="Typing" />
 
 ![Status](https://img.shields.io/badge/status-aberta%20a%20oportunidades-2aa5a0?style=for-the-badge)
 ![Local](https://img.shields.io/badge/Manaus-AM-0f3d6e?style=for-the-badge)
@@ -12,76 +12,99 @@
 
 ---
 
-## whoami
+## 👩‍💻 `SELECT * FROM izabella;`
 
-Sou a **Ana Izabella**, estudante do 8º período de **Engenharia da Computação** na Fametro, em Manaus. Hoje atuo como **estagiária de TI no TRT da 11ª Região**, com **suporte técnico e SQL/MySQL**. Gosto de entender como os sistemas funcionam por trás, do atendimento ao usuário até o banco de dados, e estou construindo minha base em **dados, programação e desenvolvimento** enquanto defino minha especialização.
+```sql
+SELECT nome, curso, onde_trabalha, procurando
+FROM   izabella
+WHERE  cidade = 'Manaus';
 
-Busco **estágio ou vaga júnior em TI**, em Manaus.
+-- resultado
+-- nome           : Ana Izabella Velozo Souza
+-- curso          : Engenharia da Computação · Fametro · 8º período
+-- onde_trabalha  : TRT-11 · suporte técnico e SQL/MySQL
+-- procurando     : estágio ou vaga júnior em TI
+```
 
-| Suporte Técnico | Banco de Dados | Desenvolvimento |
-| --- | --- | --- |
-| Atendimento a usuários, diagnóstico e resolução de problemas | SQL, MySQL, modelagem de dados e normalização | Python, Git e noções de front-end e Android |
+Gosto de entender como o sistema funciona **de ponta a ponta**: do usuário que abre um chamado até a tabela onde o dado mora. Hoje isso é suporte técnico e SQL/MySQL no TRT-11. Amanhã pode ser dados, suporte ou desenvolvimento, e estou testando cada caminho para descobrir qual é o meu.
 
 ---
 
-## Tecnologias
+## 🧬 Perfil em Python
 
-**Linguagens**
+```python
+class Izabella:
+    def __init__(self):
+        self.nome       = "Ana Izabella Velozo Souza"
+        self.cidade     = "Manaus, AM"
+        self.curso      = "Engenharia da Computação (Fametro)"
+        self.trabalho   = ["Suporte técnico", "SQL", "MySQL"]
+        self.estudando  = ["Front-end", "Android", "DevOps", "IA"]
+        self.idiomas    = {"Português": "nativo", "Inglês": "intermediário"}
+        self.disponivel = True   # estágio ou vaga júnior
+
+    def resolver(self, problema):
+        return self.entender(problema) and self.testar() and self.documentar()
+```
+
+---
+
+## 🎒 Inventário
+
+| 🛠️ Suporte | 🗄️ Dados | 💻 Código |
+| :--- | :--- | :--- |
+| Atendimento a usuários, diagnóstico e resolução de incidentes | SQL, MySQL, modelagem e normalização | Python, Git, HTML, CSS, JavaScript e noções de Android |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0f3d6e?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Banco de dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Modelagem](https://img.shields.io/badge/Modelagem%20e%20Normaliza%C3%A7%C3%A3o-2aa5a0?style=for-the-badge)
-
-**Ferramentas e plataformas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Em estudo:** desenvolvimento web front-end, Android, DevOps e fundamentos de inteligência artificial.
+---
+
+## 🔥 Missão em destaque: BoitaTech
+
+> *E se você pudesse navegar pelo mapa do Brasil só mexendo os dedos no ar?*
+
+```text
+ webcam ──▶ rastreio das mãos ──▶ gesto ──▶ mapa do Brasil ──▶ onde estão as queimadas
+```
+
+O **BoitaTech** é um mapa interativo do Brasil **controlado por gestos**. Uma webcam acompanha os dedos de quem usa, e a pessoa navega pelos estados para ver onde estão acontecendo as queimadas. Foi apresentado na **INOV@TECH 2026**, a feira de inovações tecnológicas da Fametro, em maio, em Manaus.
+
+**Minha parte:** ajudei a organizar várias frentes do projeto, como **programação, marketing e liderança da equipe**. Foi onde confirmei que gosto de aprender fazendo e de trabalhar em time.
 
 ---
 
-## Experiência
+## 🗺️ Linha do tempo
 
-| Período | Função | Onde |
-| --- | --- | --- |
-| Atualmente | **Estagiária de TI** (suporte técnico e SQL/MySQL) | Tribunal Regional do Trabalho da 11ª Região (TRT-11) |
-| 11/2024 – 06/2025 | **Jovem Aprendiz de Logística** | JM Logística (terceirizada da Ambev) |
+```text
+2023 ─── Entro em Engenharia da Computação · Fametro
+         └─ cursos: Ocean Tech School (Python, Git e DevOps, Front-end, Android, IA),
+            Udemy (Informática Básica e Avançada), Intelligence (Gestão e Marketing Digital)
 
----
+11/2024 ─ 06/2025 ─── Jovem Aprendiz de Logística · JM Logística (Ambev)
+         └─ rotina administrativa, documentos, planilhas e registro de dados
 
-## Projeto em destaque
+Atualmente ─── Estagiária de TI · TRT-11
+         └─ suporte técnico a usuários + consultas e manutenção de dados em SQL/MySQL
 
-### BoitaTech · INOV@TECH 2026 (Fametro)
+Maio 2026 ─── BoitaTech · INOV@TECH 2026
 
-Mapa interativo do Brasil **controlado por gestos**: uma webcam acompanha os dedos do usuário, que navega pelos estados para ver onde estão acontecendo as queimadas. O projeto foi apresentado na **INOV@TECH 2026**, a feira de inovações tecnológicas da Fametro, em maio de 2026, em Manaus.
-
-**Minha atuação:** participei da equipe e atuei na organização de várias frentes do projeto, como **programação, marketing e liderança**.
-
----
-
-## Formação e cursos
-
-- **Bacharelado em Engenharia da Computação**, Centro Universitário Fametro (2023 – atual)
-- **Ocean Tech School:** Programação em Python, Git e DevOps, Desenvolvimento Web Front-end, Desenvolvimento Android e Fundamentos de Inteligência Artificial
-- **Informática Básica e Avançada**, Udemy
-- **Gestão Administrativa e Empreendedora, Marketing Digital e Negócios na Internet**, Intelligence
-- **Idiomas:** Português (nativo) · Inglês (intermediário)
+Próxima fase ─── ??? (talvez a sua empresa 👀)
+```
 
 ---
 
-## Atividade no GitHub
+## 📈 Atividade
 
 <div align="center">
 
@@ -93,10 +116,12 @@ Mapa interativo do Brasil **controlado por gestos**: uma webcam acompanha os ded
 
 <div align="center">
 
-### let's build something.
+### 💬 vamos construir alguma coisa?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-izabella-velozo-souza-704b8b297/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabellavelozo0@gmail.com)
+
+<sub>`return 0;` · obrigada por passar por aqui 💙</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa5a0,100:0f3d6e&height=100&section=footer" alt="" />
 
