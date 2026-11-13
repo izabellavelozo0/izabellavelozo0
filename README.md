@@ -18,22 +18,16 @@ Gosto de entender como o sistema funciona **de ponta a ponta**: do usuário que 
 
 ---
 
-## 🧬 Perfil em Python
+## 🧬 Perfil
 
-```python
-class Izabella:
-    def __init__(self):
-        self.nome       = "Ana Izabella Velozo Souza"
-        self.cidade     = "Manaus, AM"
-        self.curso      = "Engenharia da Computação (Fametro)"
-        self.trabalho   = ["Suporte técnico", "SQL", "MySQL"]
-        self.estudando  = ["Front-end", "Android", "DevOps", "IA"]
-        self.idiomas    = {"Português": "nativo", "Inglês": "intermediário"}
-        self.disponivel = True   # estágio ou vaga júnior
-
-    def resolver(self, problema):
-        return self.entender(problema) and self.testar() and self.documentar()
-```
+| | |
+| :--- | :--- |
+| 👩‍💻 **Nome** | Ana Izabella Velozo Souza |
+| 📍 **Cidade** | Manaus, AM |
+| 🎓 **Formação** | Engenharia da Computação · Fametro (8º período) |
+| 💼 **Atuação** | Estagiária de TI · TRT-11 (suporte técnico e SQL/MySQL) |
+| 🗣️ **Idiomas** | Português (nativo) · Inglês (intermediário) |
+| 🔎 **Procurando** | Estágio ou vaga júnior em TI |
 
 ---
 
@@ -107,5 +101,6 @@ Próxima fase ─── ??? (talvez a sua empresa 👀)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa5a0,100:0f3d6e&height=100&section=footer" alt="" />
 
 </div>
+
 
 
